@@ -2,7 +2,7 @@
   Todo-App <br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="App-Demo" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
